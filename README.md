@@ -54,4 +54,4 @@ open http://localhost:8080/
 
 [![Run Action](https://github-action-button.web.app/buttons/simple.svg?name=Deploy%20With%20Dispatch&eventType=deploy&type=simple)](https://github-action-button.web.app/repos/kouki-dan/action-button/button?name=Deploy%20With%20Dispatch&eventType=deploy&type=simple)
 
-[![Run Action](https://github-action-button.web.app/buttons/simple.svg?name=Deploy%20with%20Deployment&eventType=&type=simple&action=deployment)](https://github-action-button.web.app/repos/kouki-dan/action-button/button?name=Deploy%20with%20Deployment&eventType=&type=simple&action=deployment&environment=release)
+[![Run Actionsss](https://github-action-button.web.app/buttons/simple.svg?name=Deploy%20with%20Deployment&eventType=&type=simple&action=deployment)](https://github-action-button.web.app/repos/kouki-dan/action-button/button?name=Deploy%20with%20Deployment&eventType=&type=simple&action=deployment&environment=release)
